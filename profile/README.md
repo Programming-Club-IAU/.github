@@ -18,7 +18,7 @@ Our Web Track focuses on web development technologies, including HTML, CSS, Java
 
 ### App Track
 
-The App Track is dedicated to mobile app development. Learn to create Android and iOS apps using languages like Java, Kotlin, Swift, and technologies such as Flutter and React Native. Join this track to turn your app ideas into reality.
+The App Track is dedicated to mobile app development. Learn to create Android and iOS apps using Flutter & Dart.
 
 ## How to Get Started
 
