@@ -2,8 +2,8 @@
 
 <p>
 <img align="left" src="https://github.com/Programming-Club-IAU/.github/blob/main/assets/Programming_Club_Logo.png">
-<br><br><br>
-<strong>Welcome to the IAU Programming Club! This is the central repository where you can find information <br> <br> and resources for both the web track and the app track. Whether you're a seasoned developer or just <br><br> starting your coding journey, our club has something for everyone.</strong>
+<br><br><br><br>
+<strong>Welcome to the IAU Programming Club! </strong>This is the central repository where you can find information and resources for both the web track and the app track. Whether you're a seasoned developer or just starting your coding journey, our club has something for everyone.
 </p>
 
 <br>
