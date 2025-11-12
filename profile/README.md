@@ -1,8 +1,8 @@
 # IAU Programming Club
 
-## Welcome!
+**Welcome!**
 
-![Programming Club Logo](https://github.com/Programming-Club-IAU/.github/blob/main/assets/club-logo.jpg)
+![Programming Club Logo](https://github.com/Programming-Club-IAU/.github/blob/main/assets/Programming_Club_Logo.jpg)
 
 Welcome to the IAU Programming Club! This is the central repository where you can find information and resources for both the web track and the app track. Whether you're a seasoned developer or just starting your coding journey, our club has something for everyone.
 
